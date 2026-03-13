@@ -1,6 +1,6 @@
 This repository contains the reproducible code used in the study:
 
-"Regional inequalities in non-COVID excess mortality in Chile, 2002–2022".
+"Regional inequalities in non-COVID excess mortality in Chile, 2020–2022".
 
 Data source:
 Department of Health Statistics and Information (DEIS), Ministry of Health of Chile.
