@@ -1,0 +1,7 @@
+Data source:
+
+Department of Health Statistics and Information (DEIS)
+Ministry of Health of Chile
+
+Public datasets available at:
+https://deis.minsal.cl/#datos-abiertos
